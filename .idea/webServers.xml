@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="4756bcc6-232e-4666-b45c-7ec3763e21b1" name="digikallashop.ir" url="http://server298.bertina.biz">
+        <fileTransfer rootFolder="/public_html" host="server298.bertina.biz" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
